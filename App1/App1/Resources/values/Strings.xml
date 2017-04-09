@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">App1</string>
+  <string-array name="list">
+    <item>Pozycja 1</item>
+    <item>Pozycja 2</item>
+    <item>Pozycja 3</item>
+  </string-array>
+</resources>
